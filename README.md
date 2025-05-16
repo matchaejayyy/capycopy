@@ -3,7 +3,6 @@
 Server testing includes the following:
 
 - playwright testing framework for frontend testing
-- PostgreSQL as database
 
 ### Getting started
 
